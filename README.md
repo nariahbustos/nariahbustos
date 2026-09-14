@@ -11,15 +11,6 @@
 - Security monitoring projects
 - Web application security
 
-🛠️ Technical Interests
-- Cybersecurity
-- Information Security
-- Vulnerability Management
-- Security Operations
-- Linux
-- Network Security
-- Web Application Security
-
 📚 Currently Learning
 - CompTIA Security+
 - Linux & Networking
